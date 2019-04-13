@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# capitalizewords / https://www.notion.so/highereducation/capitalizewords-61a58d45fabb45febc201a452be3eebc
+# capitalizewords / https://github.com/jasoncomes/Capitalize-Words-Liquid-Filter
 # Takes a string or variable and capitalizes the first letter of every word.
 # {{ string | capitalizewords }}
 
